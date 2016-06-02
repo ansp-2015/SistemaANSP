@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.ansp.sistema.MainActivity" >
+
+    <item
+        android:id="@+id/action_scan"
+        android:icon="@drawable/ic_barcode"
+        android:title="@string/scan"
+        app:showAsAction="ifRoom"/>
+    
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"/>
+    
+    <item
+        android:id="@+id/action_show"
+        android:title="@string/show"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_initialize"
+        android:title="@string/initialize"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+</menu>

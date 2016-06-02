@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sistema ANSP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_rack_display">Rack Display</string>
+    <string name="save">Salvar</string>
+    <string name="show">Exibir</string>
+    <string name="initialize">Inicialize BD</string>
+    <string name="table_column_rackid">Rack ID</string>
+    <string name="table_column_id">ID</string>
+    <string name="table_column_pos">Posição</string>
+    <string name="share">Compartilhe</string>
+    <string name="more">Mais</string>
+    <string name="clear">Limpar</string>
+    <string name="table_column_apelido">Apelido</string>
+    <string name="help_text">Para começar a ler o código de barras, toque no nome do campo que deseja ler</string>
+    <string name="position">Posição</string>
+    <string name="equipment">Equipamento</string>
+    <string name="help_text1">Comece tocando no ícone do código de barras acima para escanear o rack</string>
+
+</resources>
